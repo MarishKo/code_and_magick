@@ -1,17 +1,17 @@
 {
-  "name": "84149-code-and-magick",
+  "name": "code_and_magick",
   "version": "0.1.0",
   "private": true,
-  "description": "Обучающий проект «code-and-magick» от HTML Academy",
-  "author": "Юлия К.",
+  "description": "Обучающий проект «code_and_magick» от HTML Academy",
+  "author": "DudaGod",
   "repository": {
     "type": "git",
-    "url": "git://github.com/js-htmlacademy/84149-code-and-magick.git"
+    "url": "git://github.com/DudaGod/code_and_magick.git"
   },
   "bugs": {
-    "url": "https://github.com/js-htmlacademy/84149-code-and-magick/issues"
+    "url": "https://github.com/DudaGod/code_and_magick/issues"
   },
-  "homepage": "https://github.com/js-htmlacademy/84149-code-and-magick",
+  "homepage": "https://github.com/DudaGod/code_and_magick",
   "devDependencies": {
     "eslint": "1.5.1"
   },

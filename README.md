@@ -1,6 +1,6 @@
 # Проект «Code and Magick»
 
-* Студент: [Юлия К.](https://htmlacademy.ru/profile/id84149).
+* Студент: --.
 
 
 --
