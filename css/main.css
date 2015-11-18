@@ -270,6 +270,7 @@ input[type=radio]:checked + .reviews-filter-item {
 .review-quiz-answer-active {
   color: #fff;
   text-decoration: none;
+}
 .reviews-controls {
   text-align: center;
 }
@@ -461,3 +462,4 @@ input[type=radio]:checked + .review-mark-label {
   left: 0;
   position: absolute;
   top: -1.5em;
+}
